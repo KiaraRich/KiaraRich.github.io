@@ -1,4 +1,4 @@
-# KiaraRich.github.io (webpage currently under construction)
+# KiaraRich.github.io
 
 ## Education 
 
