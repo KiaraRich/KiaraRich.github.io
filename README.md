@@ -1,5 +1,16 @@
-<div style="display: flex; align-items: center;">
-  <img src="images/ProfilePicture.jpg" alt="Profile Picture" width="150" style="border-radius: 50%; margin-right: 20px;">
+# Welcome to My Page!
+
+Hi there! 👋 I'm **Kiara Richardson**, and I'm so excited you've decided to stop by! This space is a reflection of my journey, passions, and the things that make me, well, me.
+
+Some of my favorite things include:
+- 🌍 Traveling to explore new cultures and cuisines.
+- 🎵 Enjoying music that spans genres and vibes.
+- 📚 Immersing myself in anime and manga stories.
+- 🍳 Trying my hand at cooking and experimenting with new recipes.
+- 🏕️ Going on spontaneous outdoor adventures that make life unforgettable.
+
+Feel free to explore and learn more about my education, professional experience, and interests. Thanks for visiting, and I hope you find something here that resonates with you!
+
 
 ## Education 
 
