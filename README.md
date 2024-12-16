@@ -1,7 +1,5 @@
 <div style="display: flex; align-items: center;">
   <img src="images/ProfilePicture.jpg" width="150" style="border-radius: 50%; margin-right: 20px;">
-  <div>
-    <h1>Kiara Richardson</h1>
   </div>
 </div>
 
