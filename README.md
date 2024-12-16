@@ -1,4 +1,5 @@
-# KiaraRich.github.io
+<img src="images/ProfilePicture.jpg" alt="As seen on my Mom's fridge" width="500">
+
 
 ## Education 
 
