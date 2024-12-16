@@ -1,4 +1,47 @@
-<img src="images/ProfilePicture.jpg" alt="As seen on my Mom's fridge" width="500">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GitHub Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      padding: 0;
+    }
+
+    .container {
+      display: flex;
+      align-items: flex-start;
+    }
+
+    .profile-picture {
+      margin-right: 20px; /* Space between image and name */
+    }
+
+    .text-section {
+      display: flex;
+      flex-direction: column;
+    }
+
+    h1 {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="profile-picture">
+      <img src="images/ProfilePicture.jpg" alt="As seen on my Mom's fridge" width="150">
+    </div>
+    <div class="text-section">
+      <h1>Your Name</h1>
+      <p>Your short bio or introduction goes here. Add more details about yourself.</p>
+    </div>
+  </div>
+</body>
+</html>
 
 
 ## Education 
