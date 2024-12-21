@@ -2,7 +2,7 @@
 Hi there! 👋 I'm **Kiara Richardson**, and I'm so excited you've decided to stop by! This space is a reflection of my journey, passions, and the things that make me, well, me.
 
 Some of my favorite things include:
-- 🌍 Traveling to explore new cultures and cuisines.
+- :earth_africa: Traveling to explore new cultures and cuisines.
 - 🎵 Enjoying music that spans genres and vibes.
 - 📚 Immersing myself in anime, manga, and manhwa stories.
 - 🍳 Trying my hand at cooking and experimenting with new recipes.
