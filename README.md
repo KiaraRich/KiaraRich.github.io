@@ -1,10 +1,10 @@
-# Welcome to My Page!
+# Yee - and I cannot stress this enough - Haw!
 Hi there! 👋 I'm **Kiara Richardson**, and I'm so excited you've decided to stop by! This space is a reflection of my journey, passions, and the things that make me, well, me.
 
 Some of my favorite things include:
-- :earth_africa: Traveling to explore new cultures and cuisines.
+- 🌍 Traveling to explore new cultures and cuisines.
 - 🎵 Enjoying music that spans genres and vibes.
-- 📚 Immersing myself in anime, manga, and manhwa stories.
+- 📚 Immersing myself in anime and manga stories.
 - 🍳 Trying my hand at cooking and experimenting with new recipes.
 - 🏕️ Going on spontaneous outdoor adventures that make life unforgettable.
 
@@ -19,6 +19,27 @@ Feel free to explore and learn more about my education, professional experience,
 
 ### :woman_student: Embry-Riddle Aeronautical University - Bachelor of Science in Computational Mathematics '22
 **Minors in Astronomy/Astrophysics and Humanities**
+
+## 🎓 Education
+👩‍🎓 Rice University - Master of Engineering Management & Leadership 2026
+Specialization in Data Science
+I am currently pursuing a Master's in Engineering Management & Leadership with a focus on Data Science. This program combines advanced technical skills with leadership strategies, equipping me to manage complex engineering projects and lead data-driven decision-making processes.
+
+📚 Notable Projects
+Currently in my first semester and looking forward to future projects that integrate leadership and data science!
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Professional Experience
 
