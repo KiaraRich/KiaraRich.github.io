@@ -23,11 +23,14 @@ I am currently pursuing a Master's in Engineering Management & Leadership with a
 I earned my Master's in Computational and Applied Mathematics, where I developed advanced mathematical and computational techniques to solve real-world problems. This program deepened my expertise in modeling, optimization, and automation, laying a strong foundation for tackling complex challenges in engineering and data science.
 
 📚 Notable Projects
-Research Paper: Automation in Neural Networks for Predictive Analysis
-Focused on improving automation processes within neural networks, leveraging Python and TensorFlow for high-accuracy predictions.
-Project: Statistical Modeling for Stock Market Analysis
+- Research Paper: **Cybersecurity - Identifying Civilian Threats and How to Protect Against Them**
+Explored methods to protect data, networks, and devices from unauthorized access and cyber threats such as malware, phishing, and identity theft. Proposed practical strategies like antivirus software, multi-factor authentication, and data backups to enhance security.
+
+
+
+- Project: Statistical Modeling for Stock Market Analysis
 Designed and implemented Markov chain models to analyze stock market behavior and predict trends.
-Project: Mathematical Modeling for Climate Change Data
+- Project: Mathematical Modeling for Climate Change Data
 Utilized differential equations and numerical methods to model and analyze climate change impacts using real-world datasets.
 
 
