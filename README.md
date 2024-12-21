@@ -25,14 +25,11 @@ I earned my Master's in Computational and Applied Mathematics, where I developed
 📚 Notable Projects
 - Research Paper: **Cybersecurity - Identifying Civilian Threats and How to Protect Against Them**
   - Explored methods to protect data, networks, and devices from unauthorized access and cyber threats such as malware, phishing, and identity theft. Proposed practical strategies like antivirus software, multi-factor authentication, and data backups to enhance security.
-  - [Full Paper (PDF)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation%20Handout.pdf){:target="_blank"}
+   **Resources:**
+   - [Handout: ENGI 501 Oral Presentation (PDF)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation%20Handout.pdf){:target="_blank"}  
+   - [PowerPoint: ENGI 501 Oral Presentation (PDF)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation.pdf){:target="_blank"}  
+   - [Research Paper: ENGI 501 Project Report (PDF)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Project%20Report.pdf){:target="_blank"}
 
-
-
-- Project: Statistical Modeling for Stock Market Analysis
-Designed and implemented Markov chain models to analyze stock market behavior and predict trends.
-- Project: Mathematical Modeling for Climate Change Data
-Utilized differential equations and numerical methods to model and analyze climate change impacts using real-world datasets.
 
 
 
