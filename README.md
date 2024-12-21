@@ -12,6 +12,7 @@ Feel free to explore and learn more about my education, professional experience,
 
 ## 🎓 Education
 👩‍🎓 Rice University 2026 - Master of Engineering Management & Leadership with Specialization in Data Science
+
 I am currently pursuing a Master's in Engineering Management & Leadership with a focus on Data Science. This program combines advanced technical skills with leadership strategies, equipping me to manage complex engineering projects and lead data-driven decision-making processes.
 
 ### 📚 Notable Projects
