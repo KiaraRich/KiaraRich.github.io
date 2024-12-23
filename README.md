@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-top: 20px;">
-  <img src="{{ site.profile_picture }}" alt="Profile Picture of Kiara Richardson" width="150" style="border-radius: 50%;">
+  <img src="/images/ProfilePicture.jpg" alt="Profile Picture of Kiara Richardson" width="150" style="border-radius: 50%;">
 </div>
 
 # Yee - and I cannot stress this enough - Haw!
