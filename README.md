@@ -28,11 +28,12 @@ I earned my Master's in Computational and Applied Mathematics, where I developed
 
 #### 📚 Notable Projects and Research Papers
 📜Cybersecurity - Identifying Civilian Threats and How to Protect Against Them
-  - Explored methods to protect data, networks, and devices from unauthorized access and cyber threats such as malware, phishing, and identity theft. Proposed practical strategies like antivirus software, multi-factor authentication, and data backups to enhance security.
+
+Explored methods to protect data, networks, and devices from unauthorized access and cyber threats such as malware, phishing, and identity theft. Proposed practical strategies like antivirus software, multi-factor authentication, and data backups to enhance security.
   - **Resources:**
-      - 📄 [Research Paper (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Project%20Report.pdf)
-      - 📊 [PowerPoint Presentation (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation.pdf)
-      - 📄 [Handout Document (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation%20Handout.pdf)  
+    - 📄 [Research Paper (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Project%20Report.pdf)
+    - 📊 [PowerPoint Presentation (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation.pdf)
+    - 📄 [Handout Document (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation%20Handout.pdf)  
 
 🛠️ Exploring Potentially Hazardous Near-Earth Objects
   - Explored the Tisserand Parameter, a key measure in orbital mechanics used to classify and track the trajectories of near-Earth objects (NEOs), potentially hazardous objects (PHOs), and comets relative to Jupiter. Developed data science models to analyze asteroid and comet properties, leveraging orbital characteristics such as semi-major axis, eccentricity, and inclination. Demonstrated how the Tisserand Parameter can classify bodies as comets (𝑇 < 3) or asteroids (𝑇 > 3) and highlighted its application in identifying extinct or inactive comet nuclei. This work underscores its critical role in planetary defense and understanding our solar system's evolution.
