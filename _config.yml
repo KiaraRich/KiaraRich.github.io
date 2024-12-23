@@ -1,3 +1,6 @@
 title: Kiara Richardson
-description: Welcome to my page!
+description: Welcome to my page! I'm excited to share my journey and interests with you.
 theme: jekyll-theme-minimal
+
+# Custom variables
+profile_picture: images/ProfilePicture.jpg
