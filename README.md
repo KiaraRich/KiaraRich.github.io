@@ -15,14 +15,14 @@ Some of my favorite things include:
 Feel free to explore and learn more about my education, professional experience, and interests. Thanks for visiting, and I hope you find something here that resonates with you!
 
 ## 🎓 Education
-👩‍🎓 **Rice University 2024-2026 || M.E.M.L. Master of Engineering Management & Leadership with Specialization in Data Science**
+👩‍🎓 **Rice University 2024-2026 | M.E.M.L. Master of Engineering Management & Leadership with Specialization in Data Science**
 
 I am currently pursuing a Master's in Engineering Management & Leadership with a focus on Data Science. This program combines advanced technical skills with leadership strategies, equipping me to manage complex engineering projects and lead data-driven decision-making processes.
 
 📚 Notable Projects and Research Papers
 Currently in my second semester and looking forward to future projects that integrate leadership and data science!
 
-👩‍🎓 **Rice University 2022-2024 || M.C.A.A.M. Master of Computational and Applied Mathematics**
+👩‍🎓 **Rice University 2022-2024 | M.C.A.A.M. Master of Computational and Applied Mathematics**
 
 I earned my Master's in Computational and Applied Mathematics, where I developed advanced mathematical and computational techniques to solve real-world problems. This program deepened my expertise in modeling, optimization, and automation, laying a strong foundation for tackling complex challenges in engineering and data science.
 
