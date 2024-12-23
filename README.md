@@ -1,3 +1,7 @@
+<div style="text-align: center; margin-top: 20px;">
+  <img src="{{ site.profile_picture }}" alt="Profile Picture of Kiara Richardson" width="150" style="border-radius: 50%;">
+</div>
+
 # Yee - and I cannot stress this enough - Haw!
 Hi there! 👋 I'm **Kiara Richardson**, and I'm so excited you've decided to stop by! This space is a reflection of my journey, passions, and the things that make me, well, me.
 
