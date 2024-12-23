@@ -26,23 +26,27 @@ I earned my Master's in Computational and Applied Mathematics, where I developed
 - **📜 Research Paper:** Cybersecurity - Identifying Civilian Threats and How to Protect Against Them
   - Explored methods to protect data, networks, and devices from unauthorized access and cyber threats such as malware, phishing, and identity theft. Proposed practical strategies like antivirus software, multi-factor authentication, and data backups to enhance security.
   - **Resources:**
-      - [Research Paper (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Project%20Report.pdf)
-      - [PowerPoint Presentation (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation.pdf)
-      - [Handout Document (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation%20Handout.pdf)  
+      - 📄 [Research Paper (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Project%20Report.pdf)
+      - 📊 [PowerPoint Presentation (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation.pdf)
+      - 📄 [Handout Document (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/ENGI%20501%20Oral%20Presentation%20Handout.pdf)  
 
 - **🛠️ Project:** Exploring Potentially Hazardous Near-Earth Objects
   - Explored the Tisserand Parameter, a key measure in orbital mechanics used to classify and track the trajectories of near-Earth objects (NEOs), potentially hazardous objects (PHOs), and comets relative to Jupiter. Developed data science models to analyze asteroid and comet properties, leveraging orbital characteristics such as semi-major axis, eccentricity, and inclination. Demonstrated how the Tisserand Parameter can classify bodies as comets (𝑇 < 3) or asteroids (𝑇 > 3) and highlighted its application in identifying extinct or inactive comet nuclei. This work underscores its critical role in planetary defense and understanding our solar system's evolution.
   - **Resources:**
-    - [Jupyter Notebook Code (.ipynb)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Rice%20University%20-%20Research%20Papers/Data%20Science%20Project%20.ipynb)
-    - [Research Paper (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/Data%20Science%20Project%20Report.pdf)
-    - [PowerPoint Presentation (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/RCEL%20506%20Midterm%20Data%20Science%20Project.pdf)
+    - 🧮 [Jupyter Notebook Code (.ipynb)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Rice%20University%20-%20Research%20Papers/Data%20Science%20Project%20.ipynb)
+    - 📄 [Research Paper (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/Data%20Science%20Project%20Report.pdf)
+    - 📊 [PowerPoint Presentation (.pdf)](https://raw.githubusercontent.com/KiaraRich/KiaraRich.github.io/main/Rice%20University%20-%20Research%20Papers/RCEL%20506%20Midterm%20Data%20Science%20Project.pdf)
    
 - **🛠️ Project:** Machine Learning and Data Science Fundamentals - INDE 577 Final Project
   - This course covers the fundamentals of data science and machine learning. Topics include: introduction to scikit-learn, Keras and tensorflow2, linear and logistic regression, clustering, support vector machines, random forest trees, neural networks, deep learning, natural language processing. This repository contains 4 folders for my Final Project: Computational and Applied Mathematics Examples, Data Science Foundations, Supervised Learning, and Unsupervised Learning. Each folder contains Jupyter Notebooks that showcase the skills I learned throughout this semester-long course.
   - **Resources:**
-    - [GitHub Repository (github.com)](https://github.com/KiaraRich/INDE577-Final-Project-Fall-2023)
+    - 🌐 [GitHub Repository (github.com)](https://github.com/KiaraRich/INDE577-Final-Project-Fall-2023)
 
-  
+- **📜 Research Paper:** Higher Order Hyperbolic Equations with Constant Coefficients  
+  - Hyperbolic equations are a type of partial differential equation (PDE) that describe wave-like phenomena where disturbances propagate with finite speed. These equations are fundamental in modeling various real-world applications, such as sound waves, electromagnetic waves, and seismic waves. This paper explores higher-order hyperbolic equations with constant coefficients, focusing on methods like Fourier transforms, separation of variables, and characteristic equations to find solutions.
+  - **Resources:**  
+    - 📄 [Research Paper (.pdf)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Rice%20University%20-%20Research%20Papers/Final_Project_Paper.pdf)  
+    - 🧮 [MATLAB Code (.m)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Rice%20University%20-%20Research%20Papers/WaveEquation1D_SpectralMethod.m)
 
 
 
