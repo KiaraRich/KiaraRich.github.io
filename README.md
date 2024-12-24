@@ -96,6 +96,7 @@ This project is a detailed myth list based on Neil Gaiman's *Norse Mythology*. I
   - 📄 [Norse Myth List (PDF)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Embry-Riddle%20Aeronautical%20University%20Resources/Norse%20Myth%20List%20COMPLETED%20.pdf)
 
 ✍️ "Her Condolences: A Warrior’s Journey Exhibited as a Short Novel"
+
 For my Mythology Capstone assignment, I chose to write a series of short stories told from the perspective of Artemis. These stories come together as a short novel titled *Her Condolences*. Each chapter explores Artemis’ character and role as a goddess, offering a deeper understanding of her personality and motives. While each chapter is adapted from a traditional myth, I reimagined the narratives by incorporating Artemis’ unique perspective, highlighting what I believe to be key aspects of the original stories. Each chapter begins with a summary of the original myth, providing context for my adaptation. The title, *Her Condolences*, reflects the idea that Artemis is offering her grievances to the figures in the original myths. The novel unfolds as an action-packed story, portraying women as strong, dynamic warriors in a way that captivates the audience.
 - **Resources:**  
   - 📄 [Creative Project Explanation (.pdf)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Embry-Riddle%20Aeronautical%20University%20Resources/Mythology%20Capstone%20Assignment%20Explanation%20Paper.pdf)  
