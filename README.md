@@ -83,6 +83,24 @@ Originally pursuing a Bachelor of Science in Astronomy/Astrophysics with minors 
   - 📄 [Creative Project Explanation (.pdf)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Embry-Riddle%20Aeronautical%20University%20Resources/Creative%20Project%20Explanation%20Final.pdf)  
   - 📄 [“When the Shadows Come” Fanfiction Story (.pdf)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Embry-Riddle%20Aeronautical%20University%20Resources/Creative%20Project%20%5Bfinal%20cut%20saved%20to%20google%20drive%5D.pdf)
 
+✍️ *Feathered Serpent Dark Heart of Sky*: Mesoamerican Myth List
+
+This project is a comprehensive myth list inspired by the book *Feathered Serpent, Dark Heart of Sky: Myths of Mexico* by David Bowles. It catalogs the people/gods (and their descendants), events, places, and definitions central to Mesoamerican mythology as depicted in the book. The myth list serves as a detailed reference guide, offering readers insights into the rich tapestry of Mesoamerican culture and mythology, while highlighting the interconnectedness of characters, locations, and significant events.
+- **Resource:**  
+  - 📄 [Mesoamerican Myth List (PDF)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Embry-Riddle%20Aeronautical%20University%20Resources/Mesoamerican%20Myth%20List%20Completed.pdf)
+ 
+✍️ *Norse Mythology*: Norse Myth List
+
+This project is a detailed myth list based on Neil Gaiman's *Norse Mythology*. It catalogs the people/gods (and their descendants), events, places, and definitions central to Norse mythology as presented in the book. The myth list serves as a comprehensive reference for readers, showcasing the intricate relationships, legendary events, and mythological places that form the core of Norse cultural heritage.
+- **Resource:**  
+  - 📄 [Norse Myth List (PDF)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Embry-Riddle%20Aeronautical%20University%20Resources/Norse%20Myth%20List%20COMPLETED%20.pdf)
+
+✍️ "Her Condolences: A Warrior’s Journey Exhibited as a Short Novel"
+For my Mythology Capstone assignment, I chose to write a series of short stories told from the perspective of Artemis. These stories come together as a short novel titled *Her Condolences*. Each chapter explores Artemis’ character and role as a goddess, offering a deeper understanding of her personality and motives. While each chapter is adapted from a traditional myth, I reimagined the narratives by incorporating Artemis’ unique perspective, highlighting what I believe to be key aspects of the original stories. Each chapter begins with a summary of the original myth, providing context for my adaptation. The title, *Her Condolences*, reflects the idea that Artemis is offering her grievances to the figures in the original myths. The novel unfolds as an action-packed story, portraying women as strong, dynamic warriors in a way that captivates the audience.
+- **Resources:**  
+  - 📄 [Creative Project Explanation (.pdf)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Embry-Riddle%20Aeronautical%20University%20Resources/Mythology%20Capstone%20Assignment%20Explanation%20Paper.pdf)  
+  - 📄 ["Her Condolences" (.pdf)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Embry-Riddle%20Aeronautical%20University%20Resources/Mythology%20Capstone%20Assignment.pdf)
+ 
 
 
 
