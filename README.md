@@ -14,6 +14,10 @@ Some of my favorite things include:
 
 Feel free to explore and learn more about my education, professional experience, and interests. Thanks for visiting, and I hope you find something here that resonates with you!
 
+# Personal 
+
+...
+
 ## 🎓 Education
 ### 👩‍🎓 Rice University 2024-2026 | M.E.M.L. Master of Engineering Management & Leadership with Specialization in Data Science
 
@@ -65,6 +69,20 @@ The spectral method is a powerful numerical technique for solving partial differ
   - 🧮 [1D Heat Equation MATLAB Code (.m)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Rice%20University%20-%20Research%20Papers/HeatEquation_1D_SpectralFiniteComparison.m)  
   - 🧮 [2D Heat Equation MATLAB Code (.m)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Rice%20University%20-%20Research%20Papers/HeatEquation_2D_SpectralFiniteComparison.m)  
   - 🧮 [Heat Equation and Finite Difference MATLAB Code (.m)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Rice%20University%20-%20Research%20Papers/heat_equation_finite_diff.m)
+ 
+### 👩‍🎓 Embry-Riddle Aeronautical University 2018-2022 | B.S. Computational Mathematics with Minors in Astronomy/Astrophysics and Humanities
+
+Originally pursuing a Bachelor of Science in Astronomy/Astrophysics with minors in Applied Mathematics and Humanities, I made the decision in Spring 2021 to shift my major to Computational Mathematics. Although this change came late in my academic career, it allowed me to fully leverage my strengths and excel in advanced mathematics courses. This program provided me with a strong foundation in mathematical modeling, numerical analysis, and problem-solving techniques. Coupled with my minors, I gained a deeper understanding of astrophysical phenomena and developed critical thinking skills through the study of humanities. These experiences prepared me to approach complex problems with both technical precision and a broad, interdisciplinary perspective.
+
+#### 📚 Notable Projects and Research Papers
+
+✍️ “When the Shadows Come” – A “Game of Rat and Dragon” and Black Panther Crossover Fanfiction
+
+*“When the Shadows Come”* is a science-fiction fanfiction story that combines elements from the film *Black Panther* and the story *Game of Rat and Dragon*. This creative crossover explores themes of progressional change and self-reflection. Shuri, a character who symbolizes innovation and leadership, is at the center of this narrative. Shuri represents progressional change in several impactful ways. (1) Her role as the head scientist of Wakanda challenges traditional views of women in STEM and minority representation in science. (2) In this story, she ascends to the throne at just 16 years old, transitioning Wakanda from its patriarchal traditions to a matriarchal leadership system. (3) Her belief in innovation and improvement—captured in her quote, *“Just because something works, doesn’t mean it can’t be improved”*—aligns with the theme of societal progression. This story is a testament to the power of representation and the importance of embracing change as a means to thrive and grow.
+- **Resources:**  
+  - 📄 [Creative Project Explanation (.pdf)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Embry-Riddle%20Aeronautical%20University%20Resources/Creative%20Project%20Explanation%20Final.pdf)  
+  - 📄 [“When the Shadows Come” Fanfiction Story (.pdf)](https://github.com/KiaraRich/KiaraRich.github.io/blob/main/Embry-Riddle%20Aeronautical%20University%20Resources/Creative%20Project%20%5Bfinal%20cut%20saved%20to%20google%20drive%5D.pdf)
+
 
 
 
