@@ -1,4 +1,5 @@
 title: Kiara Richardson
 description: Welcome to my page!
 theme: jekyll-theme-slate
+layout: full-width
 profile_picture: images/ProfilePicture.jpg
